@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866668"
+   version="1.1"
+   id="svg1486"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="tex1_16x16_d37182c65fb90e73_4eab8bf5d99ba7d2_8.svg">
+  <defs
+     id="defs1480" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-17.130619"
+     inkscape:cy="-41.015556"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showborder="true"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="782"
+     inkscape:window-height="459"
+     inkscape:window-x="2507"
+     inkscape:window-y="1351"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       position="0,22.116554"
+       orientation="1,0"
+       id="guide2042"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="33.876412,21.44838"
+       orientation="1,0"
+       id="guide2044"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="16.904797,33.876414"
+       orientation="0,1"
+       id="guide2046"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-1.7763568e-15,9.5548507e-06"
+       orientation="0,1"
+       id="guide2048"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1483">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-263.13332)">
+    <rect
+       style="opacity:1;fill:#10395a;fill-opacity:1;stroke:none;stroke-width:6.23095036;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2065"
+       width="33.876411"
+       height="33.87635"
+       x="0"
+       y="263.12357" />
+    <rect
+       style="opacity:1;fill:#b55a08;fill-opacity:1;stroke:none;stroke-width:1.76667476;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2061"
+       width="16.937485"
+       height="11.432672"
+       x="8.4683952"
+       y="285.56732" />
+    <g
+       id="g2059">
+      <ellipse
+         ry="4.6939211"
+         rx="8.4701052"
+         cy="274.13177"
+         cx="16.938217"
+         id="path2050"
+         style="display:inline;fill:#de8431;fill-opacity:1;fill-rule:evenodd;stroke-width:0.14727169" />
+      <ellipse
+         style="fill:#de8431;fill-opacity:1;fill-rule:evenodd;stroke-width:0.1472764"
+         id="ellipse2052"
+         cx="16.936619"
+         cy="290.19577"
+         rx="8.4706469"
+         ry="4.6939211" />
+      <rect
+         y="274.05023"
+         x="8.4687481"
+         height="16.174959"
+         width="16.937613"
+         id="rect2054"
+         style="opacity:1;fill:#de8431;fill-opacity:1;stroke:none;stroke-width:1.76563764;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </g>
+  </g>
+</svg>

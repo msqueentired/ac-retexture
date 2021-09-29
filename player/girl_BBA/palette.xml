@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<palette>
+    <tan1>
+        <hair fill="#9C6331"/>
+        <nose fill="#C65A29"/>
+        <skin fill="#EFAD84"/>
+        <pupil fill="#526B73"/>
+    </tan1>
+    <tan2>
+        <hair fill="#945A31"/>
+        <nose fill="#B55A29"/>
+        <skin fill="#E7A57B"/>
+        <eyeoutline stroke="#523118"/>
+        <pupil fill="#526B73"/>
+        <eyelid fill="#FF8C73"/>
+    </tan2>
+    <tan3>
+        <hair fill="#8C5229"/>
+        <nose fill="#A55229"/>
+        <skin fill="#D6946B"/>
+        <eyeoutline stroke="#523118"/>
+        <pupil fill="#526B7B"/>
+        <eyelid fill="#F78C73"/>
+    </tan3>
+    <tan4>
+        <hair fill="#844A21"/>
+        <nose fill="#A54A21"/>
+        <skin fill="#CE8C63"/>
+        <eyeoutline stroke="#4A2910"/>
+        <pupil fill="#526B73"/>
+        <eyelid fill="#EF8C73"/>
+    </tan4>
+    <tan5>
+        <hair fill="#7B4218"/>
+        <nose fill="#9C4218"/>
+        <skin fill="#C6845A"/>
+        <eyeoutline stroke="#422108"/>
+        <pupil fill="#526B73"/>
+        <eyelid fill="#E78C73"/>
+    </tan5>
+    <tan6>
+        <hair fill="#733910"/>
+        <nose fill="#943910"/>
+        <skin fill="#BD7B52"/>
+        <eyeoutline stroke="#391800"/>
+        <pupil fill="#526B73"/>
+        <eyelid fill="#DE8C73"/>
+    </tan6>
+    <tan7>
+        <hair fill="#6B310"/>
+        <nose fill="#8C3108"/>
+        <skin fill="#B5734A"/>
+        <eyeoutline stroke="#311000"/>
+        <pupil fill="#526B73"/>
+        <eyelid fill="#D68C6B"/>
+    </tan7>
+    <tan8>
+        <hair fill="#632900"/>
+        <nose fill="#842900"/>
+        <skin fill="#A56339"/>
+        <eyeoutline stroke="#290800"/>
+        <pupil fill="#526B73"/>
+        <eyelid fill="#CE8C63"/>
+    </tan8>
+</palette>
